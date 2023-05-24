@@ -1,0 +1,6 @@
+model parameters :
+kernel= linear, Number of points= 1, Radius= 8 
+Accuracy : 66.67%
+Confusion matrix: male  female
+            male   21    14
+            female  9    26
